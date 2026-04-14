@@ -1,0 +1,13 @@
+# Ignore container filesystems
+rootfs-alpha/
+rootfs-beta/
+
+# Logs
+*.log
+
+# Build files
+*.o
+*.ko
+*.mod.*
+Module.symvers
+modules.order
